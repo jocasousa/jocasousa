@@ -6,7 +6,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jocaasouzaa/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsa.me/5521988602609/?t=Ol%C3%A1,%20estou%20vindo%20pelo%20Github!)
 
-![Joca Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=jocasousa&show_icons=true&theme=dracula)
+![Joca Sousa GitHub stats](https://github-readme-stats-jocasousa.vercel.app/api?username=jocasousa&show_icons=true&theme=dracula)
 
 ### # Tecnologias que eu uso no meu dia a dia:
 
@@ -27,5 +27,5 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jocasousa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-jocasousa.vercel.app/api/top-langs/?username=jocasousa)](https://github.com/anuraghazra/github-readme-stats)
 
