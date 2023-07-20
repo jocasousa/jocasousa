@@ -27,5 +27,4 @@
 </div>
 
 
-[![Top Langs](https://github-readme-stats-jocasousa.vercel.app/api/top-langs/?username=jocasousa)]
-
+![Top Langs](https://github-readme-stats-jocasousa.vercel.app/api/top-langs/?username=jocasousa)
